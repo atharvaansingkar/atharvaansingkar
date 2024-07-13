@@ -1,3 +1,4 @@
+![logo](https://github.com/atharvaansingkar/atharvaansingkar/blob/main/Banner.jpg)
 <h1 align="center">Hi 👋, I'm Atharva Ansingkar</h1>
 <h3 align="center">A Passionate Web Developer</h3>
 
